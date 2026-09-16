@@ -1,12 +1,4 @@
 # Student Performance Machine Learning Project
-
-## Team Members
-
-- Ashfaq Hossain Anik — ID: 20245103044
-- [Team Member 2 Name] — ID: [Student ID]
-- [Team Member 3 Name] — ID: [Student ID]
-- [Team Member 4 Name] — ID: [Student ID]
-
 ## Problem Idea
 
 This project explores student academic performance using basic data analysis and
